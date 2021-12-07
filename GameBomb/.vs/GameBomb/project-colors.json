@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad3b7369-0255-4582-b006-c0a70c515f0d": {
+      "ProjectGuid": "ad3b7369-0255-4582-b006-c0a70c515f0d",
+      "DisplayName": "GameBomb",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
